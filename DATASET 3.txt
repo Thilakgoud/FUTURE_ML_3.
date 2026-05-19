@@ -1,0 +1,9 @@
+resume
+"Python, Machine Learning, Data Analysis"
+"Java, SQL, Web Development"
+"Python, Deep Learning, NLP"
+"Data Science, R, Statistics"
+"Cloud Computing, AWS, DevOps"
+"Cybersecurity, Networking, Ethical Hacking"
+"Mobile App Development, Flutter, Kotlin"
+"Business Intelligence, Power BI, Tableau"
